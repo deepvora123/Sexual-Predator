@@ -1,0 +1,25 @@
+
+body {
+    background-color:yellow;
+}
+
+h1 {
+    font-size: 72px;
+    text-shadow: 1px 1px 10px red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-size: large;
+    color: black;
+}
+
+h2 {
+    font-size: 55px;
+    text-shadow: 1px 1px 10px red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
